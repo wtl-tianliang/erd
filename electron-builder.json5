@@ -7,7 +7,7 @@
   "directories": {
     "output": "release"
   },
-  "asar": true,
+  "asar": false,
   "files": [
     "dist-electron",
     "commands",
